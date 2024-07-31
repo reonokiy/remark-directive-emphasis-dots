@@ -1,0 +1,11 @@
+# Node dependencies
+node_modules/
+
+# Build output
+/dist/
+
+# Log files
+*.log*
+
+# Test coverage output
+/coverage/
